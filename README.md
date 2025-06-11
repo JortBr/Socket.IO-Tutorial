@@ -48,8 +48,9 @@ Socket.IO tutorial for my personal project fps game to get a look at how this wo
 
 Results:
  
-<img width="454" src="https://github.com/user-attachments/assets/40f5c78d-3b76-413e-a7a4-dd358ed82afa">
+<img width="600" src="https://github.com/user-attachments/assets/40f5c78d-3b76-413e-a7a4-dd358ed82afa">
 
-<img width="454" src="https://github.com/user-attachments/assets/f96bcd57-ab05-4b1e-b09d-5c9ff54d8c9a">
+
+<img width="600" src="https://github.com/user-attachments/assets/f96bcd57-ab05-4b1e-b09d-5c9ff54d8c9a">
 
 https://socket.io/docs/v4/tutorial/step-7
